@@ -35,6 +35,8 @@ To summarize, there is no significant temparature difference in both months and 
 
 It looks fine to invest in the shop. But before making the final decision, we can consider few points:
 
-1. There are few factors other than temparature, precipitation being the one. It would be great if we can collect data on frequencies. Also, we have to consider the response of people, number of activities available. Also, we can analyse statistics of temparatures recorded by stations for those two months to determine the location in Oahu.
+1. There are few factors other than temparature, precipitation being the one. It would be great if we can collect data on frequencies. Since, we have seen the patterns i.e. there was more precipitation recorded in December as compared to June. We can analyse the records from various stations for these two months.
+ 
+3. Also, we have to consider the response of people, number of activities available at and near locations. We can analyse statistics of temparatures recorded by stations for those two months. Along with precipitation, temparature statistics and frequencies, we can determine the most suitable location for our shop. 
 
-2. 
+
