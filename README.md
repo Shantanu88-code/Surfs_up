@@ -12,7 +12,7 @@ For this analysis, we merged and compared temparature statistics for June and De
 
 # Few points to consider:
 
-1. The average temparature in June is 75 and 71 in December. It is a moderate temparature and there is not much difference between two periods.
+1. The average temparature in June is 75 and 71 in December. It is a moderate temparature and there is not much difference between two periods. With the help of bar graph below, it can be seen that temparatures over the years have been steady for both June and December with just a slight difference between the two.
 
 2. Also, when we look at maximum temparatures, there is not much difference either with 85 in June and 83 in December.
 
